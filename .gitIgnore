@@ -4,7 +4,6 @@ logs
 
 bower_components
 node_modules
-build/
 *.zip
 old
 *.rar
